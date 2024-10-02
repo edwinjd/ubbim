@@ -1089,6 +1089,19 @@ section.lazy-placeholder:after {
 .cid-sp5D7r7L6L .mbr-section-btn {
   color: #767676;
 }
+.cid-uq1bKWB9O3 {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-uq1bKWB9O3 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-uq1bKWB9O3 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-tCpJ0sXvSu {
   padding-top: 15px;
   padding-bottom: 15px;
